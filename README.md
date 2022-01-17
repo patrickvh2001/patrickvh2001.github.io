@@ -1,3 +1,5 @@
+This is built to be a template for candidates.  Everything created here was originated in the tutorial located at https://docs.github.com/en/pages/quickstart
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/patrickvh2001/patrickvh2001.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
